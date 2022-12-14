@@ -1,10 +1,17 @@
 [
   {
-    "description": "mama digdown's at the crystal corner",
-    "date": "December 3 2022",
-    "time": "8pm",
-    "venue": "the crystal corner, madison wi",
-    "bandName": "mama digdown's brass band"
+    "description": "mama digdowns at the mill (night one)",
+    "date": "February 3 2023",
+    "time": "9pm",
+    "venue": "the green mill, chicago il",
+    "bandName": "mama digdowns brass band"
+  },
+  {
+    "description": "mama digdowns at the mill (night two)",
+    "date": "February 4 2023",
+    "time": "9pm",
+    "venue": "the green mill, chicago il",
+    "bandName": "mama digdowns brass band"
   },
   {
     "description": "panchromatic steel",
@@ -12,5 +19,12 @@
     "time": "TBD",
     "venue": "TBD",
     "bandName": "panchromatic steel"
+  },
+  {
+    "description": "deryk g at the c haus",
+    "date": "February 25 2023",
+    "time": "8pm",
+    "venue": "the c haus, beloit wi",
+    "bandName": "deryk g"
   }
 ]
