@@ -8,5 +8,5 @@ paragraphs, used to render an artists bio prettily.
 
 # Websites that use this repo
 
-currently you can find the data here (but displayed prittely) at:
+currently you can find the data here (but displayed nicely) at:
 charliepalm.com
