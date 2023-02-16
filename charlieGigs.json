@@ -1,38 +1,52 @@
 [
   {
-    "description": "porchflowers at the rigby",
-    "date": "January 5 2023",
-    "time": "8pm",
-    "venue": "the rigby",
-    "bandName": "the porchflowers",
-    "cover": 10
-  },
-  {
-    "description": "mama digdowns at the mill (night one)",
-    "date": "February 3 2023",
-    "time": "9pm",
-    "venue": "the green mill, chicago il",
-    "bandName": "mama digdowns brass band"
-  },
-  {
-    "description": "mama digdowns at the mill (night two)",
-    "date": "February 4 2023",
-    "time": "9pm",
-    "venue": "the green mill, chicago il",
-    "bandName": "mama digdowns brass band"
+    "description": "Charlie with jack johnson and henry ptacek",
+    "date": "February 16 2023",
+    "time": "7:30",
+    "venue": "leopolds",
+    "bandName": "charlie palm trio"
   },
   {
     "description": "panchromatic steel",
     "date": "February 21 2023",
-    "time": "TBD",
-    "venue": "TBD",
-    "bandName": "panchromatic steel"
+    "time": "7pm",
+    "venue": "cafe coda",
+    "bandName": "panchromatic steel",
+    "cover": 10
   },
   {
-    "description": "deryk g at the c haus",
+    "description": "sunline w abi arkley and conor",
+    "date": "February 25 2023",
+    "time": "8pm",
+    "venue": "robinia courtyard",
+    "bandName": "sunline/conor/abi arkley"
+  },
+  {
+    "description": "sunline w abi arkley and deryk g at the c haus",
     "date": "February 25 2023",
     "time": "8pm",
     "venue": "the c haus, beloit wi",
-    "bandName": "deryk g"
+    "bandName": "deryk g/sunline/abi arkley"
+  },
+  {
+    "description": "sunline w abi arkley and conor",
+    "date": "February 25 2023",
+    "time": "8pm",
+    "venue": "robinia courtyard",
+    "bandName": "sunline/conor/abi arkley"
+  },
+  {
+    "description": "Charlie with jack johnson and henry ptacek",
+    "date": "March 16 2023",
+    "time": "7:30",
+    "venue": "leopolds",
+    "bandName": "charlie palm trio"
+  },
+  {
+    "description": "abi arkley at the c haus",
+    "date": "February 25 2023",
+    "time": "8pm",
+    "venue": "the c haus, beloit wi",
+    "bandName": "abi arkley"
   }
 ]
