@@ -2,7 +2,7 @@
   {
     "description": "Charlie with jack johnson and henry ptacek",
     "date": "February 16 2023",
-    "time": "7:30",
+    "time": "7:30pm",
     "venue": "leopolds",
     "bandName": "charlie palm trio"
   },
@@ -15,36 +15,29 @@
     "cover": 10
   },
   {
-    "description": "sunline w abi arkley and conor",
-    "date": "February 24 2023",
-    "time": "8pm",
-    "venue": "robinia courtyard",
-    "bandName": "sunline/conor/abi arkley"
-  },
-  {
-    "description": "sunline w abi arkley and deryk g at the c haus",
+    "description": "MINHA w abi arkley and deryk g at the c haus",
     "date": "February 25 2023",
     "time": "8pm",
     "venue": "the c haus, beloit wi",
     "bandName": "deryk g/sunline/abi arkley"
   },
   {
-    "description": "sunline w abi arkley and conor",
-    "date": "February 25 2023",
+    "description": "MINHA w abi arkley and conor",
+    "date": "February 24 2023",
     "time": "8pm",
     "venue": "robinia courtyard",
     "bandName": "sunline/conor/abi arkley"
   },
   {
-    "description": "Charlie with jack johnson and henry ptacek",
+    "description": "charlie with jack johnson and henry ptacek",
     "date": "March 16 2023",
-    "time": "7:30",
+    "time": "7:30pm",
     "venue": "leopolds",
     "bandName": "charlie palm trio"
   },
   {
     "description": "abi arkley at the c haus",
-    "date": "February 25 2023",
+    "date": "April 15 2023",
     "time": "8pm",
     "venue": "the c haus, beloit wi",
     "bandName": "abi arkley"
