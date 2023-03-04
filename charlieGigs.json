@@ -1,40 +1,17 @@
 [
   {
-    "description": "Charlie with jack johnson and henry ptacek",
-    "date": "February 16 2023",
-    "time": "7:30pm",
-    "venue": "leopolds",
-    "bandName": "charlie palm trio"
-  },
-  {
-    "description": "panchromatic steel",
-    "date": "February 21 2023",
-    "time": "7pm",
-    "venue": "cafe coda",
-    "bandName": "panchromatic steel",
-    "cover": 10
-  },
-  {
-    "description": "MINHA w abi arkley and deryk g at the c haus",
-    "date": "February 25 2023",
-    "time": "8pm",
-    "venue": "the c haus, beloit wi",
-    "bandName": "deryk g/MINHA/abi arkley"
-  },
-  {
-    "description": "MINHA w abi arkley and conor",
-    "date": "February 24 2023",
-    "time": "8pm",
-    "venue": "robinia courtyard",
-    "bandName": "MINHA/conor/abi arkley",
-    "cover": 10
-  },
-  {
-    "description": "charlie with jack johnson and henry ptacek",
+    "description": "music box trio, live at leo's",
     "date": "March 16 2023",
     "time": "7:30pm",
     "venue": "leopold's",
-    "bandName": "charlie palm trio"
+    "bandName": "music box trio"
+  },
+  {
+    "description": "the porchflowers saint paddy's bash",
+    "date": "March 17 2023",
+    "time": "7:30pm",
+    "venue": "the lazy oaf",
+    "bandName": "the porchflowers"
   },
   {
     "description": "abi arkley at the c haus",
