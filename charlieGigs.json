@@ -1,23 +1,30 @@
 [
   {
-    "description": "music box trio, live at leo's",
-    "date": "March 16 2023",
-    "time": "7:30pm",
-    "venue": "leopold's",
-    "bandName": "music box trio"
+    "description": "charlie with jack johnson and henry ptacek",
+    "date": "June 15 2023",
+    "time": "7-9pm",
+    "venue": "leopolds",
+    "bandName": "charlie palm trio"
   },
   {
-    "description": "the porchflowers saint paddy's bash",
-    "date": "March 17 2023",
-    "time": "7:30pm",
-    "venue": "the lazy oaf",
-    "bandName": "the porchflowers"
+    "description": "panchromatic steel at the terrace",
+    "date": "June 21 2023",
+    "time": "12pm",
+    "venue": "memorial union terrace",
+    "bandName": "panchromatic steel"
   },
   {
-    "description": "abi arkley at the c haus",
-    "date": "April 15 2023",
-    "time": "8pm",
-    "venue": "the c haus, beloit wi",
-    "bandName": "abi arkley"
+    "description": "monona community festival",
+    "date": "July 4 2023",
+    "time": "1pm",
+    "venue": "winnequah park",
+    "bandName": "panchromatic steel"
+  },
+  {
+    "description": "andersonville midsommarfest",
+    "date": "June 21 2023",
+    "time": "2:30pm",
+    "venue": "foster to gregory on clark st, andersonville/chicago",
+    "bandName": "mama digdown's brass band"
   }
 ]
