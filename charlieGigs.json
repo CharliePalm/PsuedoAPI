@@ -1,19 +1,19 @@
 [
     {
-      "description": "digdown's back to back at the burr oak",
-      "date": "December 15 2023",
-      "time": "8:30",
-      "venue": "the burr oak, madison WI",
+      "description": "digdown's at the parkway",
+      "date": "January 12 2023",
+      "time": "8:00",
+      "venue": "the parkway theater, minneapolis MN",
       "bandName": "mama digdown's brass band",
-      "cover": 25
+      "cover": 20
     },
     {
-      "description": "digdown's back to back at the burr oak",
-      "date": "December 16 2023",
-      "time": "8:30pm",
-      "venue": "the burr oak, madison WI",
+      "description": "digdown's mardi gras",
+      "date": "February 13 2023",
+      "time": "7:00pm",
+      "venue": "the high noon saloon, madison WI",
       "bandName": "mama digdown's brass band",
-      "cover": 25
+      "cover": 20
     },
     {
       "description": "digdown's back to back at the green mill",
